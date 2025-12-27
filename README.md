@@ -11,8 +11,8 @@ A Windows automation tool that monitors Microsoft Teams events and triggers cust
 ## 📥 Download
 
 Go to [**Releases**](https://github.com/CyberEgo/CyberEventMacro-Release/releases/latest) and download:
-- **CyberEventMacro-x64.exe** - For 64-bit Windows (recommended for most systems)
-- **CyberEventMacro-x86.exe** - For 32-bit Windows
+- **CyberEventMacro-x64.exe**
+- **CyberEventMacro-x86.exe** 
 
 > **Note:** This is a self-contained executable. No installation or .NET runtime required - just download and run!
 

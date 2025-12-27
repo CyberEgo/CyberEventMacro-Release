@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/v/release/CyberEgo/CyberEventMacro-Release" alt="Release">
 </p>
 
-A powerful Windows automation tool that monitors Microsoft Teams events and triggers custom actions automatically. Perfect for streamlining your workflow during meetings, calls, and status changes.
+A Windows automation tool that monitors Microsoft Teams events and triggers custom actions automatically. Perfect for streamlining your workflow during meetings, calls, and status changes.
 
 ## 📥 Download
 

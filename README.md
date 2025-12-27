@@ -39,11 +39,11 @@ When events are detected, execute powerful actions:
 | **Play Sound** | Play audio notification | Alert sound on mentions |
 
 ### 🎨 Additional Features
-- **Dark Theme UI** - Modern, eye-friendly interface
+- **Dark Theme UI**
 - **System Tray** - Runs quietly in background
-- **Rule Templates** - Pre-configured common automations
+- **Rule Templates** - Some pre-configured common automations
 - **Import/Export** - Share rules between machines
-- **File Logging** - Debug and troubleshoot easily
+- **File Logging** - For troubleshooting purposes
 
 ## 🚀 Quick Start
 
@@ -102,18 +102,6 @@ Action: Shell Command → rundll32.exe user32.dll,LockWorkStation
 | **Log Events** | Record events in the Event Log tab |
 | **File Logging** | Write detailed logs to file for debugging |
 
-## 🔧 How It Works
-
-CyberEvent Macro monitors Microsoft Teams through multiple methods:
-
-1. **Log File Monitoring** - Reads Teams log files for presence and call state changes
-2. **UI Automation** - Uses Windows Accessibility APIs to detect mute/camera states
-3. **Window Monitoring** - Tracks Teams window titles for additional context
-
-The app supports both:
-- **New Teams** (MSIX/Store version)
-- **Classic Teams** (MSI installer version)
-
 ## 💡 Common Actions Library
 
 The app includes a library of copy-paste ready actions:
@@ -125,11 +113,10 @@ The app includes a library of copy-paste ready actions:
 **Display Control:**
 - Turn off monitor
 - Lock workstation
-- Start screensaver
 
-**Smart Home (HTTP):**
+**HTTP requests:**
 - Send GET/POST requests to IoT devices
-- Control Philips Hue, Home Assistant, etc.
+- To for example control and communicate with Philips Hue, Home Assistant, etc.
 
 **System:**
 - Show Windows notifications
@@ -165,9 +152,3 @@ The app includes a library of copy-paste ready actions:
 Copyright © 2025 CyberEgo. All rights reserved.
 
 This is proprietary software. Unauthorized copying, modification, distribution, or use of this software is strictly prohibited.
-
----
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/CyberEgo">CyberEgo</a>
-</p>
